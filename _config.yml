@@ -22,7 +22,7 @@ author: Wes Mason
 navbar-links:
   Home: "/"
   Personal:
-    - About Me: "aboutme"
+    - About Me: "about-me"
     - Sabbatical: "sabbatical"
   Professional:
     - Professional Summary:  "professional-summary"
