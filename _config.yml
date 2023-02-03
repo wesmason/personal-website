@@ -20,13 +20,16 @@ author: Wes Mason
 ###############################################
 
 navbar-links:
-  Personal Life:
+  Home: "/"
+  Personal:
+    - About Me: "aboutme"
     - Sabbatical: "sabbatical"
-  Professional Life (I'm looking for my next role!):
+  Professional:
     - Professional Summary:  "professional-summary"
     - Professional Beliefs: "professional-beliefs"
     - Sabbatical: "sabbatical"
     - Linkedin: "https://www.linkedin.com/in/weskmason"
+  Hire Me: "professional-summary"
 
 
 
