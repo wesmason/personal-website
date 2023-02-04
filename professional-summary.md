@@ -4,6 +4,9 @@ title: Professional Summary
 subtitle: I'm a thoughtful, empathetic, value-focused IT Leader.
 ---
 
+{: .box-success}
+👨🏼‍💻 **I'm looking for my next role**. Have an opportunity? [Get in touch.](https://www.linkedin.com/in/weskmason)
+
 I've taken the liberty of answering some questions you might have about my professional experience:
 
 ## Who am I, professionally speaking?
