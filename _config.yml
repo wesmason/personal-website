@@ -27,6 +27,7 @@ navbar-links:
   Professional:
     - Professional Summary:  "professional-summary"
     - Professional Beliefs: "professional-beliefs"
+    - Professional Portfolio: "professional-portfolio"
     - Linkedin: "https://www.linkedin.com/in/weskmason"
   Hire Me: "professional-summary"
 
