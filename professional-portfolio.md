@@ -8,7 +8,7 @@ ordered: true
 Below you can find descriptions a few of the major projects that I was a part of during my career. I specify whether:
 - I led the project directly;                                                          
 - I coached and supported teams reporting to me to ensure that they were successful; or
-- I provided major contributions to a project led by someone else 
+- I provided major contributions to a project led by someone else
 
 # Projects at edX
 I started working at [edX](https://www.edx.org) in September 2015 through its acquisition by [2U](https://2u.com) in 2021. 

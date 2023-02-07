@@ -25,9 +25,9 @@ navbar-links:
     - About Me: "about-me"
     - Sabbatical: "sabbatical"
   Professional:
-    - Professional Summary:  "professional-summary"
-    - Professional Beliefs: "professional-beliefs"
-    - Professional Portfolio: "professional-portfolio"
+    - Summary:  "professional-summary"
+    - Beliefs: "professional-beliefs"
+    - Portfolio: "professional-portfolio"
     - Linkedin: "https://www.linkedin.com/in/weskmason"
   Hire Me: "professional-summary"
 
@@ -293,6 +293,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll/footnotes
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
