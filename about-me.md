@@ -20,6 +20,8 @@ In my free time (which is ample these days due to being on [sabbatical](/sabbati
 
 * 👨🏼‍🍳 **cooking**, where I'm obsessed with [Melissa Clark](https://www.melissaclark.net) and many of the other contributors from the New York Times;
 
-* 🎮 **gaming**, where I'm currently playing [God of War: Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/), but have also been obsessed with [Hades](https://www.supergiantgames.com/games/hades/); and
+* 🎮 **video gaming**, where I'm currently playing [God of War: Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/), but have also been obsessed with [Hades](https://www.supergiantgames.com/games/hades/);
+
+* **board gaming**, where I love games like _Betrayal at the House on the Hill_, _Mysterium_, and Pandemic (I prefer cooperative to competitive games); and
 
 * 🎉 **planning elaborate theme parties with my friends**, which is a fun way of learning new skills (e.g., building a set wall with a mirror door, coding in Python with Philips Hue lights, constructing a giant chandelier) and channeling my creative energy.
