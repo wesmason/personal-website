@@ -12,7 +12,7 @@ I'm Wes. I'm a queer 🏳️‍🌈, cisgender man 🧔🏼‍♂️  who uses h
 
 I grew up in Western Massachusetts in the United States 🇺🇸 and moved out to the Boston area in 2012. After spending a number of years in Cambridge, I've recently settled in Somerville and live with my partner 👨🏻‍🤝‍👨🏼 and more houseplants 🪴than I can count.
 
-In my free time (which is ample these days due to being on [sabbatical](sabbatical)), I enjoy:
+In my free time (which is ample these days due to being on [sabbatical](/sabbatical)), I enjoy:
 
 * 🧘🏼‍♂️ **exercising**, which includes yoga, cycling, occasional rock climbing, and weightlifting;
 
