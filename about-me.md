@@ -16,12 +16,12 @@ In my free time (which is ample these days due to being on [sabbatical](/sabbati
 
 * 🧘🏼‍♂️ **exercising**, which includes yoga, cycling, occasional rock climbing, a love/hate relationship with my upstairs neighbor's rowing machine, and weightlifting;
 
-* 📚 **reading**, where I'm currently reading [The Illiad](https://shop.penguin.co.uk/products/the-iliad-by-homer), my favorite genre is fantasy, and I'm always looking for good recommendations;
+* 📚 **reading**, where my favorite genre is fantasy, but I also spend time in the realms of sci-fi, non-fiction, and glowing recommendations from friends;
 
 * 👨🏼‍🍳 **cooking**, where I'm a huge fan of [Melissa Clark](https://www.melissaclark.net) and many of the other contributors from the New York Times;
 
-* 🎮 **video gaming**, where I'm currently playing Elden Ring, recently finished [God of War: Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/), and still love [Hades](https://www.supergiantgames.com/games/hades/) for its delightful story and the ways in which it helped me change my relationship with failure;
+* 🎮 **video gaming**, where I love getting lost in a good story (e.g., [God of War](https://www.playstation.com/en-us/games/god-of-war-ragnarok/)), exploring a massive world (e.g., [Legend of Zelda: Breath of the Wild](https://www.zelda.com/breath-of-the-wild/)), and experimenting with strategies and tactics (e.g., [Hades](https://www.supergiantgames.com/games/hades/));
 
-* 🎲 **board gaming**, where I love games like _Betrayal at the House on the Hill_, _Mysterium_, and Pandemic (I prefer cooperative to competitive games); and
+* 🎲 **board gaming**, where I love games like _[Betrayal at the House on the Hill](https://www.avalonhill.com/en-us/product/avalon-hill-betrayal-at-house-on-the-hill-second-edition-cooperative-board-game-for-ages-12-and-up-for-3-6-players:8450F69A-05BE-4BB2-8146-EBCE86E4C868)_, _[Mysterium](https://www.libellud.com/en/our-games/mysterium/)_, and [Pandemic](https://www.zmangames.com/en/games/pandemic/) (I prefer cooperative to competitive games); and
 
 * 🎉 **planning elaborate theme parties with my friends**, which is a fun way of learning new skills (e.g., building a set wall with a mirror door, coding in Python with Philips Hue lights, constructing a giant chandelier) and channeling my creative energy.
