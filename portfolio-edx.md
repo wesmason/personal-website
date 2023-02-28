@@ -5,76 +5,42 @@ subtitle: Things I'm proud to have built.
 ordered: true
 ---
 # Introduction 
-edX was co-founded by MIT and Harvard in 2012 as a non-profit, open source platform for MOOCs (massive open online course). Partnering with colleges, universities, and businesses from around the world, edX sought to provide access to high quality education to everyone, everywhere. In addition to courses and professional certificates, we launched additional programs including MicroMasters credentials in 2016 [^1] and Master's Degrees in 2018 [^2] with our University partners.
+edX was co-founded by MIT and Harvard in 2012 as a non-profit, open source platform for MOOCs (massive open online course). Partnering with colleges, universities, and businesses from around the world, we sought to provide access to high quality education to everyone, everywhere. In addition to courses and professional certificates, we launched additional programs including MicroMasters credentials in 2016[^1] and Master's Degrees in 2018[^2] with our University partners. 2U would acquire edX in 2021 in a deal worth $800mm[^3].
 
-I joined edX in 2015 as the first full-time hire for IT. By the time edX was acquired in 2021, my team had grown to seven plus consulting resources.
+# Team
+I joined edX in 2015 as the first full-time hire for IT. By the time the deal to acquire edX in 2021 was announced, I had proven the value of investing in IT and had grown my team to two managers, five individual contributors, and consulting resources across IT Operations and Business Systems.
 
 # Major Accomplishments
-Here are some of my major accomplishments in short, with links to more detail on some major projects below.                       
+Here are some of my major accomplishments while at edX. Please reach out if you'd like to talk about any of them in more detail.                    
 
-* **tCRIL IT Services** Led the effort to build out baseline technology services for tCRIL (The Center for Reimagining Learning), which was the non-profit entity that remained after the edX business was sold to 2U. The goal was to build out minimum viable implementations of the technology services that the non-profit would need to continue operations after materially all of the edX assets were sold.   
-* **MIT Divesture** MIT provided edX with incubation services for years, including payroll, benefits, retirement, and some IT services. I led IT efforts to build out edX's own services and partnered with HR, Finance, and Legal to build out other services, including a new HCM/HRIS system. Read more below in the [Project Sunrise](#project-sunrise) section  
-* **New Office Build-Out**: I was part of the team that toured, selected, designed, and built out what would have been our new office when our existing lease expired. Included working with experts and employees on supporting a work environment that would best support hybrid work in a post-pandemic world.
-* **Onelogin Rollout**: I coached my Manager of IT Operations on developing an RFP and then later deploying Onelogin as an Identity Provider as a Service (IdPaaS), dramatically improving the employee experience and reducing edX's security exposure. 
-* **Lead Sharing for Programs**: My team and I Designed and deployed a lightweight lead sharing solution for our Micromasters and Master's Degree programs to get leads to our partners in near real time.
-* **Sales on Salesforce**: I worked with Sales Director and a consulting firm to [build out Salesforce](#onboard-b2b-sales-team-to-salesforce) when we launched edX for Business. Later, I led work to [integrate Salesforce and Netsuite](#salesforce-and-netsuite-integration) to dramatically decrease the time to bill customers and deliver products and dramatically increase the quality of financial data.
-* **Information Security Policies**: Co-wrote Information Security policies with General Counsel.
-* **DEI Governance**: I was a major contributor to our company's DEI program starting in 2015. Over the years, I worked with other employees to develop buy-in from Leadership and HR to invest in DEI. I led the development of our governance structure for DEI, which laid the groundwork for decision-making and strategic planning activities. I based the governance structure on Teresa Torres' [Opportunity Mapping](https://www.producttalk.org/2020/07/opportunity-mapping/) method for making better product decisions with some enhancements.     
-* **Chromeboxes**: In 2015 I transitioned edX from Mac Minis to Chromeboxes for Videoconferencing, improving employee experience for remote and in-office employees as well as decreasing management overhead.
+* **[2021-2022]** **2U Integration Preparation**: After the announcement of the deal where 2U would acquire edX, my teams and I worked with our counterparts at 2U to prepare for a smooth cut-over and continuity of operations within the limitations of pre-close coordination. This included preparing for the integration of Google Workplace Instances, preparing HR data for import, and reviewing our eCommerce systems limitations -- in addition to standard due diligence requests.
 
-# Major Projects in Detail
-I started working at [edX](https://www.edx.org) in September 2015 through its acquisition by [2U](https://2u.com) in 2021. Below are some of the major projects I led or contributed to as well as major projects that my team delivered. 
+* **[2021-2021]** **tCRIL IT Services**: The tCRIL (The Center for Reimagining Learning) was the non-profit entity that remained after the edX business was sold to 2U for $800mm. I worked directly with the future tCRIL leaders to learn about their needs and make recommendations for minimum viable technology capabilities. My teams built out the core corporate technology and CRM services so that tCRIl could continue to function without interruption. All of this work happened on an accelerated schedule while we were also preparing for the technology integration with 2U.
 
-## tCRIL Services Build-Out
+* **[2021-2021]** **DEI Governance**: I was a major contributor to our company's DEI program starting in 2015. Over the years, I worked with other employees to develop buy-in from Leadership and HR to invest in DEI. I led the development of our governance structure for DEI, which laid the groundwork for decision-making and strategic planning activities.
 
+* **[2020-2022]** **New Office Build-Out**: I was part of the team that toured, selected, designed, and built out what would have been our new office when our existing lease expired.  I worked with experts and colleagues to plan and design new workspaces that integrated technology, accessibility, and inclusivity from the beginning to support a hybrid work environment.
 
-## Project Sunrise
-From its inception until 2021, edX employees were MIT employees. From January 1st, 2021 and beyond, edX employees were employed directly by edX we were responsible for administering our own payroll, benefits, and retirement. As part of this change, we also transitioned away from our use of MIT IT services.
+* **[2020-2022]** **Centralized Identity Provider Rollout**: I coached the Manager of IT Operations on my team on how to develop business requirements and a comprehensive RFP for an Identity Provider as a Service (IdPaaS) through creating different customer and user personas, talking with stakeholders, and defining measurements for the underlying business capabilities that we wanted to improve. I also coached him in analyzing the responses and presentations to push sales representatives on questionable claims so that he could articulate the differences between the offerings and their impact on our business in order to make a recommendation. I then coached him and his team throughout the rollout process, which included working with different teams across the company to switch to SAML or Open ID, dramatically improving the employee experience and security posture through MFA, risk-based authentication controls, and fewer passwords.
 
-This was a major, multi-year project where I took on increasing responsibilities over time. Specifically, I stepped up to become the overall project manager for coordinating across IT, Legal, Finance, HR, and Facilities workstreams to ensure that edX would be fully ready to stop using MIT's services at the end of our services agreement. This included developing a focused, concise "know", "learn", "do" framework for the cross-functional "Project Sunrise" team to communicate changes to employees in advance of changes happening as well as during the period where employees would need to take action.
+* **[2019-2021]** **MIT Divesture:** MIT provided edX with incubation services for years, including payroll, benefits, and retirement. We also used some software licensing, networking, and support services from MIT. We had always planned on leaving MIT's incubation services and this project included making that happen:
+  * **IT Services:** I coached and supported my IT Operations team in planning and implementing the services we needed to now run ourselves, including endpoint management software, Microsoft and Adobe software licencing, and endpoint security software.
+  * **HRIS/HCM System:** I was the in-house project manager, technology lead, and data lead as we selected and implemented a new HCM/HRIS system to support payroll, benefits, retirement, performance, learning, and workforce planning.
+  * **Change Management**: I developed a know, learn, do framework to communicate changes in benefits, processes, and systems across HR and IT to ensure that employees were well-prepared for changes and had ample time to learn about them before any impact.
+* **[2019-2020]** **Salesforce and Netsuite Integration**: I led work to integrate Salesforce and Netsuite, which dramatically decreased the time to deliver products to customers and bill customers while dramatically increasing the quality of financial and order fulfillment data. This included working with Sales, Sales Operations, Legal, and Finance to re-engineer their processes to integrate the new technology and realize its benefits. 
 
-### Project Sunrise: IT Services Transition
-As part of this project, my team and I developed and executed a plan to procure, configure, and deploy IT Services that MIT had previously provided and edX would now have to self-manage. I scoped most of the projects in this workstream with my Manager of IT Operations and then coached him and his team to develop success criteria and a plan to execute the projects against a strict timeline. We took an agile approach and developed minimum viable implementations for each IT capability we needed to bring in-house and then follow-up capabilities to further develop after all critical work was done on-time. 
+* **[2018-2019]** **Automated Lead Sharing**: My team and I designed and deployed a lightweight, automated lead sharing solution for our Micromasters and Master's Degree programs to get leads to our partners in near real time. We built support for customers who could accept data via API as well as customers who needed to manually import data.
 
-- Integrating HCM with Cloud Identity and Access Management System for HR-Driven IAM 
-- Bringing IT Support in-house
-- Bringing licensing in-house for CRM, eSignature, Microsoft
-- Bringing purchasing capabilities for endpoints in-house
-- Deploying and migrating to new Endpoint Management infrastructure (Jamf Cloud, Intune)
-- Deploying new endpoint protection software
-- Deploying and migrating to new Endpoint Backups software
-- Deploying and migrating to a new password management solution
+* **[2018-2018]** **Onboard B2B Sales onto Salesforce**: I worked with Sales Director and a consulting firm to build out our instance of Salesforce to support Velocity Sales when we launched edX for Business.
 
-### Project Sunrise: HRIS/HCM Implementation
-As edX would now be responsible for administering payroll, benefits, and retirement for employees, we needed to spin up a Human Capital Management system to manage these HR capabilities. With the help of an HR Services firm, we selected and onboarded a new Human Resources Information Sustem (HRIS) / Human Capital Management (HCM) system.
+* **[2017-2017]** **CRM Technology Roadmap**: I retained the services of a CRM technology consultancy to do a comprehensive, organization-wide review of our existing CRM capabilities for our non-B2C customers (e.g., content partners, open source community, B2B partnerships). We delivered a roadmap that illustrated the opportunities for improving the way that we worked across functions to provide excellent service to our customers. 
+* **[2016-2017]** **Information Security Policies**: I co-wrote Information Security policies with our General Counsel. We would update them as needed, at least annually.
 
-Implementations would normally take at least 6 months to complete, but we successfully implemented the critical portions of the HCM system on an accelerated timeline (3 months). All eligible employees were enrolled in Benefits and were paid correctly for first payroll. 
+* **[2016-2016]** **Vendor Management Process**: I worked with Legal to develop an on-boarding process for new Cloud and Software vendors with the goal of using a risk-based approach to consider legal, operational, and information security risks. We reviewed new vendors with business owners to understand the risks to edX and edX data and manage risk appropriately, which included modification of contractual terms, vendor product or process changes, or choosing a different vendor. I created a Service Desk to make it easy for employees to submit requests and for IT and Legal to review them.
 
-My roles for the project included:
-- **Project Manager:** As project manager, I coordinated resources across HR, Payroll, Benefits, and IT to ensure that key capabilities were implemented on time. I escalated issues both internally and with my counterparts at the vendor.     
-- **Subject Matter Expert for Technology and Integrations:** As SME for integrations, I worked with internal teams to plan and develop integrations with critical edX Systems, including our Identity and Access Management system.    
-- **Data Expert for all Employee Data:** As the data expert, I worked with internal teams, our counterparts at MIT, and with the vendor to ensure that critical HR data was of high quality and ready for import into the new system. While HR had the final say on all data quality matters, I was a thought partner for normalizing HR data and planning the technical configuration of the organizational structure in the HR system.      
-
-## Salesforce and Netsuite Integration
-I led a project to integrate Salesforce and Netsuite, which increased Sales Velocity, increased data quality, and improved data security, and improved the overall maturity of our Sales business capabilities. This project also laid the groundwork for a subsequent integration between Docusign and Salesforce to programmatically generate contracts. This included:
-
-* Managing the overall project and stakeholders
-- Directly managing in-house and contract technical staff
-- Working with all teams (e.g., Sales, Sales Ops, Customer Success, Accounting) to clarify, document, and streamline their business processes
-- Redesigning existing order forms to set a north star for a standardized, generalized order form
-- Preparing business processes and technology systems to programmatically generate contracts and order forms with Salesforce, Conga, and Docusign
-
-## Onboard B2B Sales Team to Salesforce
-I partnered with our Director of Sales to plan and implement the technology changes to support or new B2B Sales Team. This included:
-- changes to the Lead, Opportunity, and Account objects in Salesforce to support totally new use cases
-- building out supporting reporting and dashboards
-- on-boarding companion tools for Sales Executives
-- being a thought partner on improving sales operations and handoffs to other teams
-- and bringing in experts from around the organization to support requested changes
- 
-The project included a mix of managing contract resources and completing in-house work myself.
+* **[2015-2015]** **Chromebox for Meetings**: Soon after I joined edX, I built a case to migrate to invest in Google Chromebox for Meetings hardware for videoconferencing, replacing the Mac Minis previously used in each conference room. Customers were thrilled that most meetings became one-click to join, audio quality was improved dramatically, and it was easy to tell when meetings started and ended. I was able to clearly demonstrate a return on investment within 1 year through the reduction in time to start meetings, reduction in time to change presenters, and near-zero IT overhead for software updates and maintenance.
 
 # Footnotes
-
-[^1]:[https://en.wikipedia.org/wiki/MicroMasters](https://en.wikipedia.org/wiki/MicroMasters)
-[^2]:[https://en.wikipedia.org/wiki/EdX](https://en.wikipedia.org/wiki/EdX)
+[^1]: [https://en.wikipedia.org/wiki/MicroMasters](https://en.wikipedia.org/wiki/MicroMasters)
+[^2]: [https://en.wikipedia.org/wiki/EdX](https://en.wikipedia.org/wiki/EdX)
+[^3]: [https://techcrunch.com/2021/06/29/2u-set-to-acquire-non-profit-edx-for-deal-north-of-600m](https://techcrunch.com/2021/06/29/2u-set-to-acquire-non-profit-edx-for-deal-north-of-600m)

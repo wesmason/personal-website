@@ -28,6 +28,7 @@ navbar-links:
     - Summary:  "professional-summary"
     - Beliefs: "professional-beliefs"
     - "Portfolio: edX": "portfolio-edx"
+    - "Portfolio: 2U": "portfolio-2u"
     - Linkedin: "https://www.linkedin.com/in/weskmason"
   Hire Me: "professional-summary"
 
