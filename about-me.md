@@ -14,13 +14,13 @@ I grew up in Western Massachusetts in the United States 🇺🇸 and moved out t
 
 In my free time (which is ample these days due to being on [sabbatical](/sabbatical)), I enjoy:
 
-* 🧘🏼‍♂️ **exercising**, which includes yoga, cycling, occasional rock climbing, and weightlifting;
+* 🧘🏼‍♂️ **exercising**, which includes yoga, cycling, occasional rock climbing, a love/hate relationship with my upstairs neighbor's rowing machine, and weightlifting;
 
-* 📚 **reading**, where my favorite genre is fantasy, but I also get into sci-fi and non-fiction;
+* 📚 **reading**, where I'm currently reading [The Illiad](https://shop.penguin.co.uk/products/the-iliad-by-homer), my favorite genre is fantasy, and I'm always looking for good recommendations;
 
 * 👨🏼‍🍳 **cooking**, where I'm a huge fan of [Melissa Clark](https://www.melissaclark.net) and many of the other contributors from the New York Times;
 
-* 🎮 **video gaming**, where I'm currently playing Elden Ring and recently finished [God of War: Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/);
+* 🎮 **video gaming**, where I'm currently playing Elden Ring, recently finished [God of War: Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/), and still love [Hades](https://www.supergiantgames.com/games/hades/) for its delightful story -- and how it helped me change my relationship with failure;
 
 * **board gaming**, where I love games like _Betrayal at the House on the Hill_, _Mysterium_, and Pandemic (I prefer cooperative to competitive games); and
 
