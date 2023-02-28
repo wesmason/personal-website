@@ -23,6 +23,7 @@ navbar-links:
   Home: "/"
   Personal:
     - About Me: "about-me"
+    - Now: "now"
     - Sabbatical: "sabbatical"
   Professional:
     - Summary:  "professional-summary"

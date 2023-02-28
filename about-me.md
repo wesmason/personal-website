@@ -22,6 +22,6 @@ In my free time (which is ample these days due to being on [sabbatical](/sabbati
 
 * 🎮 **video gaming**, where I'm currently playing Elden Ring, recently finished [God of War: Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/), and still love [Hades](https://www.supergiantgames.com/games/hades/) for its delightful story and the ways in which it helped me change my relationship with failure;
 
-* **board gaming**, where I love games like _Betrayal at the House on the Hill_, _Mysterium_, and Pandemic (I prefer cooperative to competitive games); and
+* 🎲 **board gaming**, where I love games like _Betrayal at the House on the Hill_, _Mysterium_, and Pandemic (I prefer cooperative to competitive games); and
 
 * 🎉 **planning elaborate theme parties with my friends**, which is a fun way of learning new skills (e.g., building a set wall with a mirror door, coding in Python with Philips Hue lights, constructing a giant chandelier) and channeling my creative energy.
