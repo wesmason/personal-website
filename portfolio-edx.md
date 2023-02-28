@@ -1,17 +1,33 @@
 ---
 layout: page-with-toc
-title: Professional Portfolio
-subtitle: Things I'm proud to have been a part of.
+title: "Portfolio: edX"
+subtitle: Things I'm proud to have built.
 ordered: true
 ---
 # Introduction 
-Below you can find descriptions a few of the major projects that I was a part of during my career. I specify whether:
-- I led the project directly;                                                          
-- I coached and supported teams reporting to me to ensure that they were successful; or
-- I provided major contributions to a project led by someone else
+edX was co-founded by MIT and Harvard in 2012 as a non-profit, open source platform for MOOCs (massive open online course). Partnering with colleges, universities, and businesses from around the world, edX sought to provide access to high quality education to everyone, everywhere. In addition to courses and professional certificates, we launched additional programs including MicroMasters credentials in 2016 [^1] and Master's Degrees in 2018 [^2] with our University partners.
 
-# Projects at edX
-I started working at [edX](https://www.edx.org) in September 2015 through its acquisition by [2U](https://2u.com) in 2021. 
+I joined edX in 2015 as the first full-time hire for IT. By the time edX was acquired in 2021, my team had grown to seven plus consulting resources.
+
+# Major Accomplishments
+Here are some of my major accomplishments in short, with links to more detail on some major projects below.                       
+
+* **tCRIL IT Services** Led the effort to build out baseline technology services for tCRIL (The Center for Reimagining Learning), which was the non-profit entity that remained after the edX business was sold to 2U. The goal was to build out minimum viable implementations of the technology services that the non-profit would need to continue operations after materially all of the edX assets were sold.   
+* **MIT Divesture** MIT provided edX with incubation services for years, including payroll, benefits, retirement, and some IT services. I led IT efforts to build out edX's own services and partnered with HR, Finance, and Legal to build out other services, including a new HCM/HRIS system. Read more below in the [Project Sunrise](#project-sunrise) section  
+* **New Office Build-Out**: I was part of the team that toured, selected, designed, and built out what would have been our new office when our existing lease expired. Included working with experts and employees on supporting a work environment that would best support hybrid work in a post-pandemic world.
+* **Onelogin Rollout**: I coached my Manager of IT Operations on developing an RFP and then later deploying Onelogin as an Identity Provider as a Service (IdPaaS), dramatically improving the employee experience and reducing edX's security exposure. 
+* **Lead Sharing for Programs**: My team and I Designed and deployed a lightweight lead sharing solution for our Micromasters and Master's Degree programs to get leads to our partners in near real time.
+* **Sales on Salesforce**: I worked with Sales Director and a consulting firm to [build out Salesforce](#onboard-b2b-sales-team-to-salesforce) when we launched edX for Business. Later, I led work to [integrate Salesforce and Netsuite](#salesforce-and-netsuite-integration) to dramatically decrease the time to bill customers and deliver products and dramatically increase the quality of financial data.
+* **Information Security Policies**: Co-wrote Information Security policies with General Counsel.
+* **DEI Governance**: I was a major contributor to our company's DEI program starting in 2015. Over the years, I worked with other employees to develop buy-in from Leadership and HR to invest in DEI. I led the development of our governance structure for DEI, which laid the groundwork for decision-making and strategic planning activities. I based the governance structure on Teresa Torres' [Opportunity Mapping](https://www.producttalk.org/2020/07/opportunity-mapping/) method for making better product decisions with some enhancements.     
+* **Chromeboxes**: In 2015 I transitioned edX from Mac Minis to Chromeboxes for Videoconferencing, improving employee experience for remote and in-office employees as well as decreasing management overhead.
+
+# Major Projects in Detail
+I started working at [edX](https://www.edx.org) in September 2015 through its acquisition by [2U](https://2u.com) in 2021. Below are some of the major projects I led or contributed to as well as major projects that my team delivered. 
+
+## tCRIL Services Build-Out
+
+
 ## Project Sunrise
 From its inception until 2021, edX employees were MIT employees. From January 1st, 2021 and beyond, edX employees were employed directly by edX we were responsible for administering our own payroll, benefits, and retirement. As part of this change, we also transitioned away from our use of MIT IT services.
 
@@ -39,10 +55,10 @@ My roles for the project included:
 - **Subject Matter Expert for Technology and Integrations:** As SME for integrations, I worked with internal teams to plan and develop integrations with critical edX Systems, including our Identity and Access Management system.    
 - **Data Expert for all Employee Data:** As the data expert, I worked with internal teams, our counterparts at MIT, and with the vendor to ensure that critical HR data was of high quality and ready for import into the new system. While HR had the final say on all data quality matters, I was a thought partner for normalizing HR data and planning the technical configuration of the organizational structure in the HR system.      
 
-## Salesforce <-> Netsuite Integration
+## Salesforce and Netsuite Integration
 I led a project to integrate Salesforce and Netsuite, which increased Sales Velocity, increased data quality, and improved data security, and improved the overall maturity of our Sales business capabilities. This project also laid the groundwork for a subsequent integration between Docusign and Salesforce to programmatically generate contracts. This included:
 
-- Managing the overall project and stakeholders
+* Managing the overall project and stakeholders
 - Directly managing in-house and contract technical staff
 - Working with all teams (e.g., Sales, Sales Ops, Customer Success, Accounting) to clarify, document, and streamline their business processes
 - Redesigning existing order forms to set a north star for a standardized, generalized order form
@@ -57,3 +73,8 @@ I partnered with our Director of Sales to plan and implement the technology chan
 - and bringing in experts from around the organization to support requested changes
  
 The project included a mix of managing contract resources and completing in-house work myself.
+
+# Footnotes
+
+[^1]:[https://en.wikipedia.org/wiki/MicroMasters](https://en.wikipedia.org/wiki/MicroMasters)
+[^2]:[https://en.wikipedia.org/wiki/EdX](https://en.wikipedia.org/wiki/EdX)

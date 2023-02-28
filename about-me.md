@@ -18,9 +18,9 @@ In my free time (which is ample these days due to being on [sabbatical](/sabbati
 
 * 📚 **reading**, where my favorite genre is fantasy, but I also get into sci-fi and non-fiction;
 
-* 👨🏼‍🍳 **cooking**, where I'm obsessed with [Melissa Clark](https://www.melissaclark.net) and many of the other contributors from the New York Times;
+* 👨🏼‍🍳 **cooking**, where I'm a huge fan of [Melissa Clark](https://www.melissaclark.net) and many of the other contributors from the New York Times;
 
-* 🎮 **video gaming**, where I'm currently playing [God of War: Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/), but have also been obsessed with [Hades](https://www.supergiantgames.com/games/hades/);
+* 🎮 **video gaming**, where I'm currently playing Elden Ring and recently finished [God of War: Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/);
 
 * **board gaming**, where I love games like _Betrayal at the House on the Hill_, _Mysterium_, and Pandemic (I prefer cooperative to competitive games); and
 
