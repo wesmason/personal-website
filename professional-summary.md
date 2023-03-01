@@ -7,7 +7,7 @@ subtitle: I'm a thoughtful, empathetic, value-focused IT Leader.
 {: .box-success}
 👨🏼‍💻 **I'm looking for my next role**. Know of a good company? [I'd love to chat!](https://www.linkedin.com/in/weskmason)
 
-I've taken the liberty of answering some questions you might have about my professional experience:
+I've taken the liberty of answering some questions you might have about my professional experience in the sections below. You can also learn more about my [professional beliefs](/professional-beliefs), and portfolio of projects from my time at [edX](/portfolio-edx) and [2U](/portfolio-2u).
 
 ## Why would you want to hire me?
 I'm skilled at helping companies figure out when, how, and -- most importantly -- whether to deploy technology so that they can meet their goals. I have proven experience in building IT teams from the ground up, starting as the first full time hire and then transforming them into strategic assets for the business. Whether agile transformation; divesture or acquisition; choosing, configuring, deploying, and maintaining a CRM, ERP, or HCM; integrating major, cross-departmental processes across people, processes, and systems (e.g., Lead to Cash, Employee Lifecycle); developing a DEI governance framework and setting goals; preparing IT systems and services for complex compliance regimes; or partnering with Legal, Compliance, and Security to develop IT and Information Security policies, I love getting the right people together to solve big, complex problems.
