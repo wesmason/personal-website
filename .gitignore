@@ -1,3 +1,7 @@
+# Personal
+archive
+archive/*
+
 # project
 _site
 .sass-cache
