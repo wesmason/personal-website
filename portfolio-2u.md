@@ -13,11 +13,44 @@ I continued to manage my existing IT Operations and Business Systems teams after
 # Major Accomplishments
 Here are some of my major accomplishments while at edX. Please reach out if you'd like to talk about any of them in more detail.                    
 
-* **[2022-2022]** **Agile Transformation**: I spent several months observing and listening with my new teams and then attempted to enact some changes to help the teams become more agile. We moved to more inclusive, collaborative meetings by using Miro to allow all team members to contribute. We also moved away from Scrum toward Kanban, which allowed us to spend less time planning, increased our throughput, and still let us address the interruptions that are endemic in IT Operations. We also established work in progress limits to help engineers focus on decreasing time to value. I also encouraged my team to spend more time talking with our customers to understand their needs.
-* **[2022-2022]** **Slack Roll-Out**: 2U used Slack for its technology team but then decided to roll it out to the entire company as part of the decision to close many of its offices. Due to some departures on my team, I ended up doing the majority of the work to prepare this service and roll it out to the company. This included building a Slack Bot that allowed users to self-service many requests that would have previously required a ticket by policy. In the first week since the service was launched, I saved over 2 weeks of administrator time through the bot in addition to providing on-demand service to end-users.
-* **[2022-2022]** **IdPaaS Migration**: Both edX and 2U used the same IdPaaS provider and we worked to migrate all services from the edX provider to the 2U provider to improve employee experience, IT efficiency, and reduce costs.
-* **[2021-2022]** **Google Workspace Integration**: Both edX and 2U used Google Workspace for email and other productivity needs. This project included migrating data from the edX instance to the 2U instance, reconciling configuration between the two instances, and guiding users through the change so that everyone could collaborate in the same place.
-* **[2021-2022]** **Handoffs**: My teams and I worked to hand-off systems, services, and processes that other teams at 2U specialized in, including endpoint management, security, vendor review, and others.
+## Agile Transformation
+* **When:** 2022
+* **Context:** At the time of acquisition in 2021, 2U was nearly 5000 people and edX was just 250. One of our goals was to combine the best of both 2U and edX.
+* **What I did:** I spent several months observing and listening with my new teams to better understand what was working well and where there were opportunities for change and growth. I validated and corrected my observations by talking with individual team members one on one as well as full teams. I introduced collaborative planning and facilitation tools like Miro; opportunity maps to introduce outcome-oriented, customer-focused strategic planning; work in progress limits and Kanban for managing work; and rotating responsibilities for triaging new escalations.
+* **Impact:**
+  * ⬆️ **Increased** collaboration and inclusivity of meetings
+  * ⬆️ **Increased** accountability for connecting engineering solutions to customer problems and impact
+  * ⬆️ **Increased** conversations between engineers and their customers
+  * ⬆️ **Increased** the throughput of each engineer
+  * ⬆️ **Decreased** low-value time planning work
+  * ⬆️ **Decreased** time to value
+
+## Slack Roll-Out
+* **When:** 2022
+* **Context:** 2U used Slack for its technology team and Google Chat for the rest of the company. As part of the decision to close many of its offices and embrace remote work, leadership decided to unite the entire company on Slack. Due to some departures on my team, I ended up doing the majority of the work to prepare this service and roll it out to the company.
+* **What I Did:**  I worked with my Manager of IT Operations and the Internal Comms team to plan the roll-out on an accelerated schedule. I created a framework for defining the minimum viable implementation against customer requirements. I also built Slack Bot that allowed users to self-service many requests that would have previously required a ticket by policy.
+* **Impact:**
+  * ⬆️ **Increased** ability for employees to collaborate in near real-time.
+  * ⬆️ **Increased** ability for employees to build and maintain community while partially or fully remote
+  * ⬇️ **Decreased** time to create, rename, and archive channels and manage user groups
+  * ⬇️ **Decreased** admin time spent on previously manual requests (saved 2 weeks of person time in the first week after launch)
+  * ⬇️ **Decreased** time to resolve Slack-oriented customer requests.
+
+## IdPaaS Migration
+* **When:** 2022
+* **Context:** Both edX and 2U used the same IdPaaS provider and maintaining both was both costly and detrimental to user experience.
+* **What I Did:** I worked with our Director of Project Management and the team to identify business owners for each covered service, developed a discovery document that engineers could use to plan migrations with their business counterparts or technology partners on other teams, served as a technical expert when needed, and served a point of escalation when we ran into coordination and alignment problems with business partners.
+* **Impact:**
+  * ⬆️ **Improved** the end user experience by aligning on a single platform for SSO
+  * ⬇️ **Decreased** IT costs by eliminating a duplicate service
+
+## Google Workspace Migration
+* **When:** 2021-2022
+* **Context:** Both edX and 2U used Google Workspace for email and other productivity needs. This project included migrating data from the edX instance to the 2U instance, reconciling configuration between the two instances, and guiding users through the change
+* **What I did:** I provided subject-matter expertise on the edX instance of Google Workspace and feedback to leadership on the tradeoffs between different approaches, balancing user impact with the time to completion and unification of systems. I also contributed to the deep and extensive discovery efforts that helped us understand the impact of the migration on Google ecosystem services (e.g., Analytics, GCP, OAuth).
+* **Impact:**
+  * ⬆️ **Increased** ease of collaboration between employees who joined via edX acquisition and existing 2U employees
+  * ⬇️ **Decreased** IT costs through retirement of duplicative service
 
 # Footnotes
 

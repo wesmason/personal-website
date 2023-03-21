@@ -31,6 +31,9 @@ navbar-links:
     - "Portfolio: edX": "portfolio-edx"
     - "Portfolio: 2U": "portfolio-2u"
     - Linkedin: "https://www.linkedin.com/in/weskmason"
+  Portfolio:
+    - edX: "portfolio-edx"
+    - 2U: "portfolio-2u"
   Hire Me: "https://www.linkedin.com/in/weskmason"
 
 
