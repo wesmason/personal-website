@@ -32,8 +32,9 @@ navbar-links:
     - "Portfolio: 2U": "portfolio-2u"
     - Linkedin: "https://www.linkedin.com/in/weskmason"
   Portfolio:
-    - edX: "portfolio-edx"
-    - 2U: "portfolio-2u"
+    - "2021-2022 - 2U": "portfolio-2u"
+    - "2015-2021 - edX": "portfolio-edx"
+
   Hire Me: "https://www.linkedin.com/in/weskmason"
 
 

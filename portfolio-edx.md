@@ -1,7 +1,7 @@
 ---
 layout: page-with-toc
 title: "Portfolio: edX"
-subtitle: Things I'm proud to have built.
+subtitle: Supporting edX's mission of providing access to high quality education for everyone, everywhere.
 ordered: true
 ---
 # Introduction 
