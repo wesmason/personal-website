@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Now
-subtitle: As of 2023-02-28.
+subtitle: As of 2023-03-21.
 ---
 
 You can see my [About Me](/about-me) page for general information about me and below for what's going on now.[^1]
