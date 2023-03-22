@@ -31,7 +31,7 @@ Here are some of my major accomplishments while at edX. Please reach out if you'
 ## Slack Roll-Out
 * **When:** 2022
 * **Context:** 2U used Slack for its technology team and Google Chat for the rest of the company. As part of the decision to close many of its offices and embrace remote work, leadership decided to unite the entire company on Slack. Due to some departures on my team, I ended up doing the majority of the work to prepare this service and roll it out to the company.
-* **What I Did:**  I worked with my Manager of IT Operations and the Internal Comms team to plan the roll-out on an accelerated schedule. I created a framework for defining the minimum viable implementation against customer requirements. I also built Slack Bot that allowed users to self-service many requests that would have previously required a ticket by policy.
+* **What I Did:**  I worked with my Manager of IT Operations and the Internal Comms team to plan the roll-out on an accelerated schedule. I created a framework for defining the minimum viable implementation against customer requirements and then worked with the Internal Communications team to agree on a minimally viable scope. I also built Slack Bot that allowed users to self-service many requests that would have previously required a ticket by policy.
 * **Impact:**
   * ⬆️ **Increased** ability for employees to collaborate in near real-time.
   * ⬆️ **Increased** ability for employees to build and maintain community while partially or fully remote
@@ -42,7 +42,7 @@ Here are some of my major accomplishments while at edX. Please reach out if you'
 ## IdPaaS Migration
 * **When:** 2022
 * **Context:** Both edX and 2U used the same IdPaaS provider and maintaining both was both costly and detrimental to user experience.
-* **What I Did:** I worked with our Director of Project Management and the team to identify business owners for each covered service, developed a discovery document that engineers could use to plan migrations with their business counterparts or technology partners on other teams, served as a technical expert when needed, and served a point of escalation when we ran into coordination and alignment problems with business partners.
+* **What I Did:** I worked with the Director of Project Management and my teams to identify business owners for each covered service. I developed a discovery document that engineers used to plan migrations with their business counterparts and technology partners on other teams, served as a technical expert when needed, and served a point of escalation when we ran into coordination and alignment problems with service owners.
 * **Impact:**
   * ⬆️ **Improved** the end user experience by aligning on a single platform for SSO
   * ⬇️ **Decreased** IT costs by eliminating a duplicate service
