@@ -1,7 +1,7 @@
 {% if include.css.sri %}
-  <link href="{{ include.css.href }}" rel="stylesheet" media="print" onload="this.media='all'" integrity="{{ include.css.sri }}" crossorigin="anonymous">
+  <link href="{{ include.css.href }}" rel="stylesheet" media="none" onload="this.media='all'" integrity="{{ include.css.sri }}" crossorigin="anonymous">
 {% elsif include.css.href %}
-  <link rel="stylesheet" media="print" onload="this.media='all'"  href="{{ include.css.href }}">
+  <link rel="stylesheet" media="none" onload="this.media='all'"  href="{{ include.css.href }}">
 {% else %}
-  <link rel="stylesheet" media="print" onload="this.media='all'"  href="{{ include.css }}">
+  <link rel="stylesheet" media="none" onload="this.media='all'"  href="{{ include.css }}">
 {% endif %}
