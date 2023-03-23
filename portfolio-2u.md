@@ -8,7 +8,7 @@ ordered: true
 I worked at edX[^1] for about 6 years before it was acquired by 2U in a deal worth $800mm[^2]. After the deal was complete, my primary focuses were continuity of operations as we started to plan for integration work and making sure that my team was seen, heard, and supported during the challenging cultural process of a company of 250 being subsumed by a company of 5000. I spent the next year integrating edX into 2U systems and services, taking on management of new teams, and trying to bring the best of edX culture and processes to a much larger company.
 
 {: .box-success}
-🔗 My previous company, [edX](https://www.edx.org), was acquired by 2U. You can find more about my pre-acquisition projects [here](/portfolio-edx).
+🔗 My previous company, [edX](https://www.edx.org), was acquired by 2U. [You can find more about my pre-acquisition projects here](/portfolio-edx).
 
 # Team
 I continued to manage my existing IT Operations and Business Systems teams after the deal closed. I early January I was asked to take on management of an additional 2U team that had been without a manager for months. Over the following year, I was proud that the Sr. Manager of Business Systems was able to interview and move into a Director-level role within 2U and our Business Systems responsibilities were transitioned to other teams. Mid-year I took on another existing team and combined it with the members of the IT Operations Team to create a new SaaS Operations team, which would be responsible for centrally managed SaaS services across the company.
