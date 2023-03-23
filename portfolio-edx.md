@@ -47,7 +47,6 @@ Here are some of my major accomplishments while at edX. I focus on my specific c
   * ⬆️ **Improved** employee experience through faster changes in access when onboarding or changing roles
   * ⬆️ **Improved** data quality of HR records between IT and HR
   * ⬆️ **Decreased** the time for changes to take effect in downstream systems, including changes in access, name, and title to minutes from hours and days
-
   * ⬇️ **Decreased** the time that IT and HR team members spent manually updating data in multiple systems
 
 ## Centralized Identity Provider Rollout
