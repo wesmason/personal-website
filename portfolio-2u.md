@@ -16,7 +16,7 @@ I continued to manage my existing IT Operations and Business Systems teams after
 # Major Accomplishments
 Here are some of my major accomplishments while at edX. Please reach out if you'd like to talk about any of them in more detail.                    
 
-## Agile Transformation
+## Team Agile Transformation
 * **When:** 2022
 * **Context:** At the time of acquisition in 2021, 2U was nearly 5000 people and edX was just 250. One of our goals was to combine the best of both 2U and edX.
 * **What I did:** I spent several months observing and listening with my new teams to better understand what was working well and where there were opportunities for change and growth. I validated and corrected my observations by talking with individual team members one on one as well as full teams. I introduced collaborative planning and facilitation tools like Miro; opportunity maps to introduce outcome-oriented, customer-focused strategic planning; work in progress limits and Kanban for managing work; and rotating responsibilities for triaging new escalations.
