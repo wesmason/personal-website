@@ -6,6 +6,8 @@ subtitle: As of 2023-03-21.
 
 You can see my [About Me](/about-me) page for general information about me and below for what's going on now.[^1]
 
+* ⌛️ **Career Sabbatical**: I've been enjoying some time off from my professional life since October 2022. You can read more about it on my [Sabbatical](/sabbatical) page.
+
 * 🧘🏼‍♂️ **Exercise**: Right now I'm on a pretty good schedule of doing yoga 4-5 times a week, including a Yin class which I've really enjoyed. My upstairs neighbor also put a rowing machine in the basement over the holidays, and I've started to use it for about 30 minutes each morning. Between these two, I've seen a marked decrease in back pain, increase in upper body strength, and improvement in balance during yoga which is pretty great!
 
 * 📚 **Reading**: I'm currently reading [The Illiad](https://shop.penguin.co.uk/products/the-iliad-by-homer). I somehow graduated with a B.A. in Classics without having read it (🤷🏼‍♂️)️, which I think was largely due to my 8th grade teacher saying it wasn't really worth it. I've been alternating between enjoying finally getting to read an important part of Western Literature and being horrified with the casual violence of all kinds.
