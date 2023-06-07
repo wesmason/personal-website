@@ -15,7 +15,6 @@ You can see my [About Me](/about-me) page for general information about me and b
 * 👨🏼‍🍳 **Cooking**: We've continued to work through [Melissa Clark](https://www.melissaclark.net)'s _Dinner in One_, which continues to be excellent. 
 
 * 🎮 **Video Gaming**: Since I last updated my Now page, I've been working on two games:
-
   * I started playing [Assassin's Creed: Valhalla](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla) in April. The game mechanics are varied and creative, but, as you might expect, it involves a lot of killing and pillaging. Most of the games I've played that have included combat and violence have been in a fantasy setting. This feels a bit different. On one hand, it's an interesting vehicle for bringing to life what previously felt like an abstract and distant part of history. On the other hand, like many similar games, it glorifies violence largely in an uncritical way. To be clear, the violence wasn't at all surprising, but how real it feels was unexpected. I'm trying to sort through how I feel about continuing to play. I'd love to chat if you've had a similar experience!
 
   * I just started to play [The Legend of Zelda: Tears of the Kingdom](https://www.zelda.com/tears-of-the-kingdom/) a few days after it came out. Breath of the Wild is a difficult act to follow, but the introduction of some of the newer abilities and the expansion of the world has been really fun to explore. I think the biggest disappointment comes from this game being a lot bleaker. BoTW was very, very pretty to just explore for hours.
