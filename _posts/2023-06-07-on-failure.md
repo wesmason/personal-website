@@ -6,7 +6,7 @@ tags: [learning, woodworking, failure]
 comments: false
 ---
 
-<img src="/assets/img/shaker-hallway-table-diagram.png" class="center" alt="A picture of the assembly diagram for the Shaker Hall Table I'm building.">
+<img src="/assets/img/shaker-hall-table-diagram.png" class="center" alt="A picture of the assembly diagram for the Shaker Hall Table I'm building.">
 
 I've started experimenting with two new hobbies: woodworking and pottery. The experience has been rewarding. While my professional work has had positive impact on the personal and work lives of the people around me, the changes that I've worked on have largely been process, culture, or technology based and have meant having conversations, writing, or moving ones and zeros around in the cloud. Creating and shaping things with physical materials in the real world is different and deeply satisfying. It's also been deeply humbling. Sometimes you can transfer what you've learned in other contexts to a new one, it works, and you can learn a new skill faster. And sometimes you start from square one. The skill is totally foreign and failure shows up quickly and often. Woodworking has been a lot like the former and pottery the latter, but both have provided a panoply of opportunities to experience failure. And I've been so grateful for this. Learning these new skills has given me the ability to reflect on how I solve new problems in new contexts and, maybe most importantly, the ability to explore my relationship with failure. This post will cover how I've approached certain problems, failed, and learned from those failures in woodworking. I'm still just starting my pottery journey and the learning experience is decidedly different; I'll explore that in a future post.                           
 
