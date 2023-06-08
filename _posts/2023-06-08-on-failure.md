@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "On Failure and Learning: Woodworking Edition"
-subtitle: 
 tags: [learning, woodworking, failure]
 thumbnail-img: /assets/img/shaker-hall-table-diagram.png
 comments: false
@@ -43,4 +42,6 @@ This mistake led to a few insights. First, sometimes it takes some time and prac
 
 ## Building a Better Relationship with Failure
 
-As a person who has been a high achiever for most of my life and who lives in a society that ties the worth of people to their productivity, test scores, and how they rank against others, I've been working on building a healthier relationship with failure. I wouldn't go so far as to say that I look forward to failure. Nor would I say that it's easy now, though it might be easier to experience. But I have come to appreciate failure as an important part of learning and not an indicator of my worth. **While failure may be an indicator of my current ability, it isn't a predictor of my potential.** I've also come to appreciate how challenging it can be to learn a totally new skill when you've been out of school for years and have hit a stride in your professional career; I think I've developed a lot more empathy for others who are learning new things. I hope you'll take the time to pick up a totally new skill, art, or craft every so often. And I think you know what I mean now when I say that I hope you'll fail along the way.
+As a person who has been a high achiever for most of my life and who lives in a society that ties the worth of people to their productivity, test scores, and how they rank against others, I've been working on building a healthier relationship with failure. I wouldn't go so far as to say that I look forward to failure. Nor would I say that it's easy now, though it might be easier to experience. But I have come to appreciate failure as an important part of learning and not an indicator of my worth. **While failure may be an indicator of my current ability, it isn't a predictor of my potential.** I've also come to appreciate how challenging it can be to learn a totally new skill when you've been out of school for years and have developed expertise in one or more areas; I've developed a lot more empathy for people who are learning new things.
+
+I hope you'll take the time to pick up a totally new skill every so often. And I think that you'll know what I mean when I say, "I hope you fail."
