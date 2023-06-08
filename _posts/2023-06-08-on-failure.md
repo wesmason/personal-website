@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Failure and Learning: Woodworking Edition
+title: "On Failure and Learning: Woodworking Edition"
 subtitle: 
 tags: [learning, woodworking, failure]
 comments: false
