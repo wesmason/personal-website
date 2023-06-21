@@ -27,7 +27,7 @@ layout: base
       {% endif %}
             <hr>
             <small>
-              <b>Permalink:</b> <a href="{{current.url}}">{{current.date | date: "%Y-%m-%d" }}</a>.
+              <b>Permalink:</b> <a href="{{current.url}}">{{page.date | date: "%Y-%m-%d" }}</a>
               <br>You can check out an archive of my "Now" updates in the <a href="/now/archive">Now Archive</a>.
             </small>
       {% include comments.html %}
