@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul>
+{% for collection in site.collections %}
+    {% if collection.label == 'now' %}
+        {% assign archive = site[collection.label] | sort_natural: "date" | reverse %}
+        {% for item in archive %}
+            <li> <a href="{{ item.url }}">{{ item.subtitle }}</a></li>
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+</ul>
