@@ -4,7 +4,7 @@ title: About Me
 
 ---
 
-<img src="/assets/img/headshot_sweater.png" width="60%" class="center" alt="A white man with short hair that is parted on the side and a short beard. He has a blue icelandic sweater and a nose stud. He's smiling at the camera.">
+<img src="/assets/img/headshot-sweater.webp" width="60%" class="center" alt="A white man with short hair that is parted on the side and a short beard. He has a blue icelandic sweater and a nose stud. He's smiling at the camera.">
 
 Oh, hello there! 👋🏻
 
