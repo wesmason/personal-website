@@ -25,8 +25,8 @@ Here are some of my major accomplishments while at edX. Please reach out if you'
   * ⬆️ **Increased** accountability for connecting engineering solutions to customer problems and impact
   * ⬆️ **Increased** conversations between engineers and their customers
   * ⬆️ **Increased** the throughput of each engineer
-  * ⬆️ **Decreased** low-value time planning work
-  * ⬆️ **Decreased** time to value
+  * ⬇️ **Decreased** low-value time planning work
+  * ⬇️ **Decreased** time to value
 
 ## Slack Roll-Out
 * **When:** 2022
