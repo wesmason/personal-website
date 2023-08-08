@@ -3,6 +3,9 @@ layout: page-with-toc
 title: "Portfolio: 2U"
 subtitle: IT integrations, roll-outs, and handoffs -- oh my!
 ordered: true
+permalink: "/portfolio/2u"
+redirect_from:
+  - "/portfolio-2u"
 ---
 # Introduction 
 I worked at edX[^1] for about 6 years before it was acquired by 2U in a deal worth $800mm[^2]. After the deal was complete, my primary focuses were continuity of operations as we started to plan for integration work and making sure that my team was seen, heard, and supported during the challenging cultural process of a company of 250 being subsumed by a company of 5000. I spent the next year integrating edX into 2U systems and services, taking on management of new teams, and trying to bring the best of edX culture and processes to a much larger company.

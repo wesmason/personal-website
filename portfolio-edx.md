@@ -3,6 +3,9 @@ layout: page-with-toc
 title: "Portfolio: edX"
 subtitle: Supporting edX's mission of providing access to high quality education for everyone, everywhere.
 ordered: true
+permalink: "/portfolio/edx"
+redirect_from:
+  - "/portfolio-edx"
 ---
 # Introduction 
 edX was co-founded by MIT and Harvard in 2012 as a non-profit, open source platform for MOOCs (massive open online course). Partnering with colleges, universities, and businesses from around the world, we sought to provide access to high quality education to everyone, everywhere. In addition to courses and professional certificates, we launched additional programs including MicroMasters credentials in 2016[^1] and Master's Degrees in 2018[^2] with our University partners. 2U would acquire edX in 2021 in a deal worth $800mm[^3].

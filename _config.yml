@@ -29,12 +29,13 @@ navbar-links:
   Professional:
     - Summary:  "professional-summary"
     - Beliefs: "professional-beliefs"
-    - "Portfolio: edX": "portfolio-edx"
-    - "Portfolio: 2U": "portfolio-2u"
+    - "Portfolio: edX": "/portfolio/edx"
+    - "Portfolio: 2U": "/portfolio/2u"
     - Linkedin: "https://www.linkedin.com/in/weskmason"
   Portfolio:
-    - "2021-2022 - 2U": "portfolio-2u"
-    - "2015-2021 - edX": "portfolio-edx"
+    - "Overview": "portfolio"
+    - "2021-2022: 2U": "/portfolio/2u"
+    - "2015-2021: edX": "/portfolio/edx"
 
   Hire Me: "https://www.linkedin.com/in/weskmason"
   Contact: "contact"
@@ -310,6 +311,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
