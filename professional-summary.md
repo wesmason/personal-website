@@ -49,9 +49,9 @@ I started a sabbatical in November 2022 with the goal of resting, reflecting, an
 I would really like to continue my journey as an IT Leader in a Director or Senior Director level role. I love building teams and helping companies be more successful by transforming IT into a strategic asset.
 
 ## Are there any particular industries you're looking for?
-I'm very open with respect to specific industry, as long as the company is mission-oriented, working toward a sustainable relationship with our planet, and making the world a better place to live.
+The majority of my professional experience has been in the software world, but I'm pretty open to where I land and always excited to learn new things. The most important thing for me is feeling good about the impact the company I work is having on the world.
 
-That said, I'm most interested in finding a role at an organization that is actively working to prevent, mitigate, or reverse human-caused climate change.
+If I could wave a wand, I'd work at an organization that is actively working to prevent, mitigate, or reverse human-caused climate change. That could mean working directly for an organization or supporting multiple organizations by providing advisory services / operational partnership through an equity firm.
 
 ## What are some business capabilities and IT capabilities you've built out?
 I have experience building out, maintaining, upgrading, and transforming business and IT capabilities that include:
