@@ -1,14 +1,15 @@
 ---
 layout: page
 title: About Me
+subtitle: "Oh, hello there! I'm Wes. 👋🏻"
 
 ---
 
 <img src="/assets/img/headshot-sweater.webp" width="60%" class="center" alt="A white man with short hair that is parted on the side and a short beard. He has a blue icelandic sweater and a nose stud. He's smiling at the camera.">
 
-Oh, hello there! 👋🏻
 
-I'm Wes. I'm a queer 🏳️‍🌈, cisgender man 🧔🏼‍♂️  who uses he/him/his pronouns.
+
+I'm a queer 🏳️‍🌈, cisgender man 🧔🏼‍♂️  who uses he/him/his pronouns.
 
 I grew up in Western Massachusetts in the United States 🇺🇸 and moved out to the Boston area in 2012. After spending a number of years in Cambridge, I've recently settled in Somerville and live with my partner 👨🏻‍🤝‍👨🏼 and more houseplants 🪴than I can count.
 

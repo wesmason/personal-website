@@ -313,7 +313,13 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-feed
 #  - jekyll-sitemap
+
+feed:
+  collections:
+    - now
+    - posts
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

@@ -18,7 +18,7 @@ layout: base
       {% for collection in site.collections %}
         {% if collection.label == 'now' %}
         {% assign current = site[collection.label] | last %}
-          <p>As of {{current.date | date: "%Y-%m-%d" }}, this is the latest:</p>
+          <h3>As of {{current.date | date: "%Y-%m-%d" }}, this is the latest:</h3>
             {{ current.content | markdownify }}
             <hr>
             <small>
