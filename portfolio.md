@@ -11,3 +11,4 @@ You can view some of the major contributions I made during my professional caree
 
 * [2U: 2021-2022](/portfolio-2u)
 * [edX: 2015-2021](/portfolio-edx)
+* [Fiksu: 2012-2015](/portfolio-fiksu)
