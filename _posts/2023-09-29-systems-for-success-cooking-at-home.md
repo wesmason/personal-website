@@ -1,6 +1,6 @@
 ---
 layout: post-with-toc
-title: "Systems for Success: Grocery Shopping"
+title: "Systems for Success: Cooking at Home"
 tags: [systems, grocery shopping, reminders, post-it notes]
 thumbnail-img: /assets/img/grocery-shopping-dinner.webp
 comments: false
