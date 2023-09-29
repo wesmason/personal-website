@@ -119,3 +119,6 @@ You can download a copy here: [Add Recipe to Shopping List Shortcut](/assets/fil
 
 # Results
 I'm thrilled with how this has all turned out. Planning our meals is easy, grocery shopping is a breeze, and (most importantly!) we're cooking at home a lot more. Because we've made all of these things so much easier, we also feel prepared to experiment with new recipes more often. And just like any good plan, it's flexible. If we don't feel like cooking or social opportunities come up, we can move things around. I do hope that this was helpful and inspires you to come up with a system for something that's been vexing you. I'd love to [hear from you](/contact) if this was helpful or if you have suggestions for improvements.
+
+
+<p class="box-success">👨🏼‍💻 <b>While you're here, I’m looking for my next role!</b><br><br>In my professional life I'm an empathetic, value-focused IT Leader who loves to help small and midsize companies transform internal IT into a strategic capability. You can learn more on my <a href="professional-summary">professional summary</a> page. Do you know of a company that could benefit from my expertise? <a href="https://www.linkedin.com/in/weskmason" target="_blank">I'd love to chat!</a></p>
