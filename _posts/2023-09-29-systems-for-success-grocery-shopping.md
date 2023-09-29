@@ -7,7 +7,11 @@ comments: false
 readtime: true
 ---
 
-For the longest time, I didn't enjoy cooking. At the end of a long day, cooking in the kitchen by myself and then cleaning up all the dishes was not at all appealing. Instead, I prioritized spending time with friends, going to the gym, practicing yoga, etc. I don't think that there was anything inherently wrong with this. One can generally solve things with time or money and this was a place where I wanted to spend my time elsewhere. Things changed when my partner moved in with me. We discovered that we had good "kitchen chemistry" and that cooking felt a little less like a chore. Still, we both found ourselves ordering out more often than we wanted, both for budget and health. We were stressed and exhausted from with work (he is also doing grad school!) and even the smallest amount of friction got in our way.  It might sound silly, but making decisions about _what_ to cook, making the list for the store, going grocery shopping, and then cooking and cleaning often felt like a little too much -- especially on a weeknight. When I started my career sabbatical, one of my goals was to figure out how I could get us to cook more.
+For the longest time, I didn't enjoy cooking. At the end of a long day, cooking in the kitchen by myself and then cleaning up all the dishes was not at all appealing. Instead, I prioritized spending time with friends, going to the gym, practicing yoga, etc. I don't think that there was anything inherently wrong with this. One can generally solve things with time or money and this was a place where I wanted to spend my time elsewhere.
+
+Things changed when my partner moved in with me. We discovered that we had good "kitchen chemistry" and that cooking felt a little less like a chore. Still, we both found ourselves ordering out more often than we wanted, both for budget and health. We were stressed and exhausted from with work (he is also doing grad school!) and even the smallest amount of friction got in our way.  It might sound silly, but making decisions about _what_ to cook, making the list for the store, going grocery shopping, and then cooking and cleaning often felt like a little too much -- especially on a weeknight.
+
+When I started my career sabbatical, one of my goals was to figure out how I could get us to cook more.
 
 # I'm Tired, Overwhelmed, and Burnt Out
 
