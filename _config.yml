@@ -22,20 +22,21 @@ author: Wes Mason
 navbar-links:
   Home: "/"
   Personal:
-    - About Me: "about-me"
-    - Now: "now"
-    - Now Archive: "now/archive"
-    - Sabbatical: "sabbatical"
+    - About Me: "/about-me"
+    - Now: "/now"
+    - Now Archive: "/now/archive"
+    - Sabbatical: "/sabbatical"
   Professional:
-    - Summary:  "professional-summary"
-    - Beliefs: "professional-beliefs"
+    - Summary:  "/professional-summary"
+    - Beliefs: "/professional-beliefs"
     - Professional Portfolio: "/portfolio"
     - Linkedin: "https://www.linkedin.com/in/weskmason"
   Portfolio:
-    - "Overview": "portfolio"
+    - "Overview": "/portfolio"
     - "2021-2022: 2U": "/portfolio/2u"
     - "2015-2021: edX": "/portfolio/edx"
     - "2012-2015: Fiksu": "/portfolio/fiksu"
+    - "Ceramics": "/portfolio/ceramics"
 
   Hire Me: "https://www.linkedin.com/in/weskmason"
   Contact: "contact"
