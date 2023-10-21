@@ -308,6 +308,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor
 
 #url: "https://www.wesmason.net"
 
