@@ -72,6 +72,6 @@ jobs:
         aws-secret-access-key: ${{ secrets.PUBLISH_AWS_SECRET }}
         aws-region: us-east-1
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync ./site_content s3://www-dev.wesmason.net --acl public-read --delete
+      run: aws s3 sync ./site_content s3://www-dev.wesmason.net --delete
     - name: Invalidate Cloudfront
       run: aws cloudfront create-invalidation --distribution-id E2CRZJWPY5JHFW --paths "/*"
